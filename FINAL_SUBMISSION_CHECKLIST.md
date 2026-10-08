@@ -1,0 +1,22 @@
+# Part 5 Final Submission Checklist
+
+- [x] Parts 1–4 integrated in one final notebook
+- [x] Sections clearly labeled
+- [x] Notebook designed to run from first cell to last cell
+- [x] Original dataset read without manual modification
+- [x] 70/30 split verified
+- [x] EDA restricted to training data
+- [x] Preprocessing restricted to training data
+- [x] Matplotlib graphs included
+- [x] Before/after scaling examples included
+- [x] Code comments and explanations included
+- [x] Cleaned training dataset exported
+- [x] Final processed training dataset exported
+- [x] Kaggle source documented
+- [x] Contribution journal included
+- [x] One-page proposal PDF included
+- [x] README included
+- [ ] Create the group's GitHub repository
+- [ ] Upload the files to GitHub
+- [ ] Open each uploaded file to verify it works/displays correctly
+- [ ] Copy the final GitHub repository URL into Canvas
